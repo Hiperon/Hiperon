@@ -1,7 +1,7 @@
 ## Short guide through my github
----
+
 ### Hello Everyone
----
+
 My GitHub is in learning phase. That's why you will see here lots of repositories with useless short exercises. Plan is to make repository for every single exercise during my learning period. I hope, I will end up with good GitHub routine and of course I will get to know git and GitHub a little more by those experiments.
 
 I will orginize my repositories here. If, for some reason, you want to look around, I don't want you to sink under short exercises. There may be same actually usefull code or project somwhere.
