@@ -12,6 +12,9 @@ Lets start!
 - [Led screen](../../../light_sound): not needed anymore project, for some led screen powered by Arduino.
 ---
 #### Learning
+##### Studies
+Exercies from studies
+- [learning object-oriented design(group project)](../../../RandomGamePO)
 ##### Udemy
 Mini repositories with exercises made form Udemy courses
 ###### Java Tim Buchalka
