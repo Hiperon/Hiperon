@@ -14,7 +14,7 @@ Lets start!
 #### Learning
 ##### Studies
 Exercies from studies
-- [learning object-oriented design(group project)](../../../RandomGamePO)
+- [learning object-oriented design](../../../RandomGamePO): group project from object-oriented design faculty.
 ##### Udemy
 Mini repositories with exercises made form Udemy courses
 ###### Java Tim Buchalka
